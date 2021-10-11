@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... such as compose ...
 
+
+[zcwfeng's GitHub info](https://github-readme-stats.vercel.app/api?username=zcwfeng)
+
+
 [中文交流环境](https://gitee.com/zcwfeng)
 
 [GitHub](https://github.com/zcwfeng/)
