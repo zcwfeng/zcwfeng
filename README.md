@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![zcwfeng's GitHub info](https://github-readme-stats.vercel.app/api?username=zcwfeng)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
 
 - 🌱 I’m currently learning ... such as compose ...
 
 
+[![zcwfeng's GitHub info](https://github-readme-stats.vercel.app/api?username=zcwfeng&show_icons=true&theme=radical&custom_title=zcwfeng)](https://github.com/anuraghazra/github-readme-stats)
 
-[![zcwfeng's GitHub info](https://github-readme-stats.vercel.app/api?username=zcwfeng)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [中文交流环境](https://gitee.com/zcwfeng)
